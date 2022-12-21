@@ -16,7 +16,6 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
 
 #EXTINF:-1, Guatevisión Canal 25
 https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=2000000.m3u8 
-https://www.tiktok.com/@mago_503sv/video/7174175042018774277?is_copy_url=1&is_from_webapp=v1
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r0.png",11 - Repretel
 http://190.83.119.67:8000/play/a0r0
@@ -27,6 +26,8 @@ http://190.83.119.67:8000/play/a0s2
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oi.png",42 - Extra TV 42
 http://190.83.119.67:8000/play/a0oi
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qy.png",6 - Repretel
+#EXTINF:-1  CANAL 503
+https://www.tiktok.com/@mago_503sv/video/7174175042018774277?is_copy_url=1&is_from_webapp=v1
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s8.png",A&E
 http://190.83.119.67:8000/play/a0s8
