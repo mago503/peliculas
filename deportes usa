@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="LAT - UNIVISION HD" tvg-logo="https://i.ibb.co/xHXkM2N/univision.png" group-title="LATINOS [USA]",LAT - UNIVISION HD
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3796
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="LAT - TELEMUNDO BOSTON" tvg-logo="https://i.ibb.co/zXdpHdX/Telemundo-BOSTON.png" group-title="LATINOS [USA]",LAT - TELEMUNDO BOSTON
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3794
