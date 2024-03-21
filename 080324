@@ -1,8 +1,40 @@
 #EXTM3U
-#EXTINF:-1, PlanetaTV Kids | CL
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, VronnyjaguarassicTV * | ronnyjaguar
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3Uronnyjaguar
+#EXTINF:-1,CINE  | A&E HD.
+http://rasaiptv.com:8080/CarlosD/CarlosD/5
+#EXTINF:-1,CINE  | A&E SD
+http://rasaiptv.com:8080/CarlosD/CarlosD/6
+#EXTINF:-1,CINE  | CINEMAX  FHD
+http://rasaiptv.com:8080/CarlosD/CarlosD/7
+#EXTINF:-1,CINE  | CINEMAX HD
+http://rasaiptv.com:8080/CarlosD/CarlosD/8
+#EXTINF:-1,CINE  | CINEMAX  SD
+http://rasaiptv.com:8080/CarlosD/CarlosD/9
+#EXTINF:-1,AR | F0X $PORTS. 3 HD
+http://rasaiptv.com:8080/CarlosD/CarlosD/11570
+#EXTINF:-1,AR | F0X SPORTS 3 SD
+http://rasaiptv.com:8080/CarlosD/CarlosD/11571
+#EXTINF:-1,MX | F0X $PORTS *PREMIUM HD
+http://rasaiptv.com:8080/CarlosD/CarlosD/11572
+#EXTINF:-1,ES | M0VISTAR SERIES HD.
+http://rasaiptv.com:8080/CarlosD/CarlosD/13432
+#EXTINF:-1,ES | M0VISTAR COMEDIA HD.
+http://rasaiptv.com:8080/CarlosD/CarlosD/13433
+#EXTINF:-1,ES | M0VISTAR DISNEY + HD
+http://rasaiptv.com:8080/CarlosD/CarlosD/13434
+#EXTINF:-1,ES | M0VISTAR CINEDOC&ROLL HD.
+http://rasaiptv.com:8080/CarlosD/CarlosD/13435
+#EXTINF:-1,ES | M0VISTAR DRAMA HD.
+http://rasaiptv.com:8080/CarlosD/CarlosD/13436
+#EXTINF:-1,ES | M0VISTAR ACCI©N HD.
+http://rasaiptv.com:8080/CarlosD/CarlosD/13438
+#EXTINF:-1,ES | M0VISTAR DCINE Ñ  SD (s)
+http://rasaiptv.com:8080/CarlosD/CarlosD/13441
+#EXTINF:-1,ES | M0VISTAR ESTRENOS HD.
+http://rasaiptv.com:8080/CarlosD/CarlosD/13442
+#EXTINF:-1,ES | M0VISTAR CINEDOC&ROLL sd (C)
+http://rasaiptv.com:8080/CarlosD/CarlosD/13444
+#EXTINF:-1,ES | M0VISTAR SERIESMANIA HD.
+http://rasaiptv.com:8080/CarlosD/CarlosD/13447
 #EXTINF:-1 group-title="RonnyJaguar ACCION" tvg-logo="https://pics.filmaffinity.com/Bloodshot-229984487-large.jpg",Bloodshot (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031217
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium Oeste ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/moviecenteroeste128.png" group-title="24-7 CINE PPV",Moviecenter Premium Oeste ⁽ᴴᴰ⁾
