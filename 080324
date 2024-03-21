@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,ES: LIGA DE CAMPEONES FHD
+#EXTINF:-1,group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES
 http://909931166193246282.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/246282.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES HD
+#EXTINF:-1,group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES
 http://909931166193165358.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165358.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES SD
+#EXTINF:-1,group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES
 http://909931166193165359.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165359.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES FHD HEVC
+#EXTINF:-1,group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES
 http://909931166193262412.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/262412.ts
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 2 FHD 
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 
 http://909931166193165365.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165365.ts
 #EXTINF:-1,CINE  | A&E HD.
 http://rasaiptv.com:8080/CarlosD/CarlosD/5
