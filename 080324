@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Pete Holmes: I Am Not for Everyone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QLh2P4u0z0kJHH706PnQTkHMkM.jpg" group-title="2023 Movies",Pete Holmes: I Am Not for Everyone (2023)
-http://fortv.cc:8080/movie/nXmmT7/622090/210725.mp4
+#EXTINF:-1 tvg-id="AmediaPremium.ru",Amedia Premium
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 1
 http://909931166193246282.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/246282.ts
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 2
