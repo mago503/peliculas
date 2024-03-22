@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="││CULT││(N) HISTORY 2D" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="││TV││CULTURA",││CULT││(N) HISTORY 2D
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/44
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ A&E (N)" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="││TV││ CINE",││CINE FHD││ A&E (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/102
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CINE FHD││ AMC (N)" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="││TV││ CINE",││CINE FHD││ AMC (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/103
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ AXN (N)" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="││TV││ CINE",││CINE HD││ AXN (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/104
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ CINE",││CINE HD││ STAR CHANNEL (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/108
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="││COMEDIA HD││  UNIVERSAL COMEDY (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="││TV││COMEDIA ",││COMEDIA HD││  UNIVERSAL COMEDY (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/109
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ CINEMAX (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="││TV││ CINE",││CINE HD││ CINEMAX (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/110
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="││TV││ CINE",││CINE HD││ DISNEY
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/112
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││PARAMOUT (N)" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="││TV││ CINE",││CINE HD││PARAMOUT (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/123
+#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="││CINE HD││ SONY (N)" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="││TV││ CINE",││CINE HD││ SONY (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/124
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ CINE",││CINE HD││SPACE (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/127
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││TNT (N)" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="││TV││ CINE",││CINE HD││TNT (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/128
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="││TV││ CINE",││CINE HD││ TNT SERIES (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/129
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││WARNER CHANNEL (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ CINE",││CINE HD││WARNER CHANNEL (N)
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/130
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA",││CULT HD││  ANIMAL PLANET
+http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/151
 #EXTINF:-1 tvg-id="AmediaPremium.ru",Amedia Premium
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 1
