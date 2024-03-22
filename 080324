@@ -77,6 +77,8 @@ http://rasaiptv.com:8080/CarlosD/CarlosD/11571
 http://rasaiptv.com:8080/CarlosD/CarlosD/11572
 #EXTINF:-1 group-title="La familia tv" tvg-logo="https://pics.filmaffinity.com/Bloodshot-229984487-large.jpg",Bloodshot (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031217
+#EXTINF:-1 group-title="La familia tv" tvg-name="Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxReoGD9terWAq1tRPjpPTsyI24.jpg" group-title="La familia tv",Matrix Resurrections (2021)
+http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171484.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium Oeste ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/moviecenteroeste128.png" group-title="24-7 CINE PPV",Moviecenter Premium Oeste ⁽ᴴᴰ⁾
 http://5tgvb.art:2052/St4rPl4yTV/St4rPl4y247TV/56424
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Kids ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/MovieCenterkids.png" group-title="24-7 CINE PPV",Moviecenter Kids ⁽ᴴᴰ⁾
