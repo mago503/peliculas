@@ -57,6 +57,12 @@ http://909931166193165359.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165359.ts
 http://909931166193262412.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/262412.ts
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 5
 http://909931166193165365.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165365.ts
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | CANAL 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/220px-Canal3.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | CANAL 3
+http://spaticplas.org:8080/cliente2mes298/3QqJS77VQDXs/466
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | TRECEVISION" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/trecevisin-1555.jpg" group-title="││TV││GUATEMALA",GUATEMALA HQ | TRECEVISION
+http://spaticplas.org:8080/cliente2mes298/3QqJS77VQDXs/465
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | CANAL 11" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | CANAL 11
+http://spaticplas.org:8080/cliente2mes298/3QqJS77VQDXs/464
 #EXTINF:-1,CINE  | A&E HD.
 http://rasaiptv.com:8080/CarlosD/CarlosD/5
 #EXTINF:-1,CINE  | CINEMAX  FHD
