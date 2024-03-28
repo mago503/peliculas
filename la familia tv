@@ -57,12 +57,6 @@ http://909931166193165359.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165359.ts
 http://909931166193262412.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/262412.ts
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 5
 http://909931166193165365.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165365.ts
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | CANAL 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/220px-Canal3.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | CANAL 3
-http://spaticplas.org:8080/cliente2mes298/3QqJS77VQDXs/466
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | TRECEVISION" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/trecevisin-1555.jpg" group-title="││TV││GUATEMALA",GUATEMALA HQ | TRECEVISION
-http://spaticplas.org:8080/cliente2mes298/3QqJS77VQDXs/465
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | CANAL 11" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | CANAL 11
-http://spaticplas.org:8080/cliente2mes298/3QqJS77VQDXs/464
 #EXTINF:-1,CINE  | A&E HD.
 http://rasaiptv.com:8080/CarlosD/CarlosD/5
 #EXTINF:-1,CINE  | CINEMAX  FHD
@@ -75,48 +69,6 @@ http://rasaiptv.com:8080/CarlosD/CarlosD/11570
 http://rasaiptv.com:8080/CarlosD/CarlosD/11571
 #EXTINF:-1,MX | F0X $PORTS *PREMIUM HD
 http://rasaiptv.com:8080/CarlosD/CarlosD/11572
-#EXTINF:-1 group-title="La familia tv" tvg-logo="https://pics.filmaffinity.com/Bloodshot-229984487-large.jpg",Bloodshot (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031217
-#EXTINF:-1 group-title="La familia tv" tvg-name="Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxReoGD9terWAq1tRPjpPTsyI24.jpg" group-title="La familia tv",Matrix Resurrections (2021)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171484.mp4
-#EXTINF:-1 group-title="La familia tv" vg-name="Los mundos de Coraline (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg" group-title="La familia tv",Los mundos de Coraline (2009)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171340.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Dragonheart: Vengeance (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPGAlXyPH21qg38GF1Ydd0xDg7B.jpg" group-title="La familia tv",Dragonheart: Vengeance (2020)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171341.mkv
-#EXTINF:-1 group-title="La familia tv" tvg-name="Cowboys & Aliens (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MrKD5qkFA9sWxP0V2Y793koZYG.jpg" group-title="La familia tv",Cowboys & Aliens (2011)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171342.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="D-Day Assassins (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29xobLkZsJW0Ifdc1lsNohZoaJH.jpg" group-title="La familia tv",D-Day Assassins (2019)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171343.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Dark Cloud (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ngkvPCnOYKeyNZjg8QqvaSnuZ.jpg" group-title="La familia tv",Dark Cloud (2022)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171344.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Dawn.of.the.planet.of.the.apes.2014.1080p-dual-lat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ngkvPCnOYKeyNZjg8QqvaSnuZ.jpg" group-title="La familia tv",Dawn.of.the.planet.of.the.apes.2014.1080p-dual-lat
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171345.mkv
-#EXTINF:-1 group-title="La familia tv" tvg-name="Despues de la Tierra 2013 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ngkvPCnOYKeyNZjg8QqvaSnuZ.jpg" group-title="La familia tv",Despues de la Tierra 2013 720p
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171346.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Dicha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ngkvPCnOYKeyNZjg8QqvaSnuZ.jpg" group-title="La familia tv",Dicha (2021)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171347.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Dolittle.2020.1080p-dual-lat-cinecalidad.is" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ngkvPCnOYKeyNZjg8QqvaSnuZ.jpg" group-title="La familia tv",Dolittle.2020.1080p-dual-lat-cinecalidad.is
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doom: Annihilation (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g78vTiPcIGgpLHG7gktEg0rqF0D.jpg" group-title="La familia tv",Doom: Annihilation (2019)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171349.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Dracula.Untold.2014.bluray-latino-e-ingles-subt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g78vTiPcIGgpLHG7gktEg0rqF0D.jpg" group-title="La familia tv",Dracula.Untold.2014.bluray-latino-e-ingles-subt
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171350.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Dredd (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXOqUxLZPann2ifjzx2yDHO96nD.jpg" group-title="La familia tv",Dredd (2012)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171351.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Drones (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSszYwFRIpsJ1qSYnRt8nLjKTDl.jpg" group-title="La familia tv",Drones (2018)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171352.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Dune (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qf5bntGx2p5kQKO7zUbHrbOx9pp.jpg" group-title="La familia tv",Dune (2021)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171353.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Dune (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qf5bntGx2p5kQKO7zUbHrbOx9pp.jpg" group-title="La familia tv",Dune (2021)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171354.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="Déjà Vu (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRhG9FVei9YcTDsTaBAHRVhLlQs.jpg" group-title="La familia tv",Déjà Vu (2006)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171355.mp4
-#EXTINF:--1 group-title="La familia tv" tvg-name="El ascensor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rexHPVJLZxTMTSRIsEjelkhk0Td.jpg" group-title="La familia tv",El ascensor (2021)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171356.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="el caballero verde - The.Green.Knight.2021.lati" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rexHPVJLZxTMTSRIsEjelkhk0Td.jpg" group-title="La familia tv",el caballero verde - The.Green.Knight.2021.lati
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171357.mp4
-#EXTINF:-1 group-title="La familia tv" tvg-name="El cazador y la reina de hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg" group-title="La familia tv",El cazador y la reina de hielo (2016)
-http://spaticplas.org:8080/movie/cliente2mes298/3QqJS77VQDXs/171358.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium Oeste ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/moviecenteroeste128.png" group-title="24-7 CINE PPV",Moviecenter Premium Oeste ⁽ᴴᴰ⁾
 http://5tgvb.art:2052/St4rPl4yTV/St4rPl4y247TV/56424
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Kids ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/MovieCenterkids.png" group-title="24-7 CINE PPV",Moviecenter Kids ⁽ᴴᴰ⁾
