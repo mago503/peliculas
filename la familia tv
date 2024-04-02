@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA:American Me" tvg-logo="http://mu03.wanicelife.com:8880/images/1ZQQi5AQCo4ThYxHPy6bKIMOrLm_small.jpg" group-title="Latino",LA:American Me
+http://95.214.235.96:8880/movie/D12m1858/59775695/34156.mkv
 #EXTINF:-1 tvg-id="" tvg-name="││CULT││(N) HISTORY 2D" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="││TV││CULTURA",││CULT││(N) HISTORY 2D
 http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/44
 #EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ A&E (N)" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="││TV││ CINE",││CINE FHD││ A&E (N)
