@@ -11,7 +11,12 @@ http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/21142
 http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/21143
 #EXTINF:-1 tvg-id="" tvg-name="Cubavision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjULbo7ahgnklHnOIjknHIOMITXRhF4t4Qnw&usqp=CAU" group-title="(TV) CUBA",Cubavision
 http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/21146
-
+#EXTINF:-1 tvg-id="" tvg-name="SV | *CANAL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3wGS-_rBd7fIL5_L7KtZGTSmqh4ye7isEA&usqp=CAU" group-title="(TV) El salvador",SV | *CANAL 4
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/50474
+#EXTINF:-1 tvg-id="" tvg-name="SV | CANAL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTClcW-RV9KC2pCGrDYdpn-pV8inJDF1IsOGA&usqp=CAU" group-title="(TV) El salvador",SV | CANAL 2
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/50478
+#EXTINF:-1 tvg-id="" tvg-name="SV | | CANAL 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZcR7QJZRwP4BvqFxef45ZG3BkPAmgrzGkQ&usqp=CAU" group-title="(TV) El salvador",SV | | CANAL 12
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/50481
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 6 | SV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaDbiAbQH9HQhKhKYBUERiwu28l1Bh1G4r8g&usqp=CAU" group-title="(TV) El salvador",CANAL 6 | SV
 http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/428
 #EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 10 (G)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1w1NEnyUMQF_dnE2ZBJzST5oqtYUD_PXfA&usqp=CAU" group-title="(TV) NICARAGUA",NIC | Canal 10 (G)
@@ -32,6 +37,54 @@ http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/141247
 http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/115800
 #EXTINF:-1 tvg-id="" tvg-name="Canal 27 GT" tvg-logo="http://daleplay.club:8080/images/e5220b60b68f6e646c2180538a5ab715.png" group-title="(TV) GUATEMALA",Canal 27 GT
 http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/141245
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX: Az Clic" tvg-logo="http://daleplay.club:8080/images/4d370e5062dd7c9fa7f1f6eb6a2d1a67.png" group-title="(TV) MEXICO",MX: Az Clic
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63184
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX: Azteca 7" tvg-logo="http://daleplay.club:8080/images/109cbd24b7f84f340475580d94ea10ca.png" group-title="(TV) MEXICO",MX: Azteca 7
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63185
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic" tvg-logo="http://daleplay.club:8080/images/ffa6d65bbbcdbda230c37ff5a49ca239.png" group-title="(TV) MEXICO",MX: Mas Chic
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63187
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable" tvg-logo="http://daleplay.club:8080/images/acc7de5cb8a06559a2da33ee9bec889e.png" group-title="(TV) MEXICO",MX: Unicable
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63189
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: AZ Corazon" tvg-logo="http://daleplaypro.com:8080/images/79d8789b856e6d384a6494fcf45f74a9.png" group-title="(TV) MEXICO",MX: AZ Corazon
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63191
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="MX: Comedy Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TNTdX_LycpJoLIlRhhsQs7iVQdf1XtQwwg&usqp=CAU" group-title="(TV) MEXICO",MX: Comedy Central
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63192
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MX: DISTRITO COMEDIA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU" group-title="(TV) MEXICO",MX: DISTRITO COMEDIA SD
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63194
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: DISTRITO COMEDIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU" group-title="(TV) MEXICO",MX: DISTRITO COMEDIA HD
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63195
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX: AZ Cinema" tvg-logo="http://daleplay.club:8080/images/c4573eb59307080455539d764921a316.png" group-title="(TV) MEXICO",MX: AZ Cinema
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63198
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TLNOVELAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKG6v_huFPerm6mBoYB159Ctdgk6JzBpyjA&usqp=CAU" group-title="(TV) MEXICO",MX: TLNOVELAS HD
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63200
+#EXTINF:-1 tvg-id="canalmexiquense.mx" tvg-name="MX: TLNOVELAS SD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKG6v_huFPerm6mBoYB159Ctdgk6JzBpyjA&usqp=CAU" group-title="(TV) MEXICO",MX: TLNOVELAS SD.
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63201
+#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: TELEVISA MONTERREY" tvg-logo="http://daleplay.club:8080/images/4b90b5a6571d68cba05eb7f52d0de388.png" group-title="(TV) MEXICO",MX: TELEVISA MONTERREY
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63203
+#EXTINF:-1 tvg-id="" tvg-name="MX: Hola TV" tvg-logo="http://daleplay.club:8080/images/034029ff32e52a9c5a0f0e062d4225fe.png" group-title="(TV) MEXICO",MX: Hola TV
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63204
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="MX: GALA TV" tvg-logo="http://daleplay.club:8080/images/7886605b9f1d6cbc04bee31a7ee067f8.png" group-title="(TV) MEXICO",MX: GALA TV
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63206
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable HD" tvg-logo="http://daleplay.club:8080/images/acc7de5cb8a06559a2da33ee9bec889e.png" group-title="(TV) MEXICO",MX: Unicable HD
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63207
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MX: ESTRELLA TV" tvg-logo="http://daleplaypro.com:8080/images/9dc6eb525846b336736a0ee066abedda.png" group-title="(TV) MEXICO",MX: ESTRELLA TV
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63208
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX: FORO TV" tvg-logo="http://daleplay.club:8080/images/38425aa5a05aada202d70bd887ed4471.png" group-title="(TV) MEXICO",MX: FORO TV
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63209
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="MX: CINE LATINO" tvg-logo="http://daleplay.club:8080/images/d253d5fcf6425bee5bdbc2c2d83f9b04.png" group-title="(TV) MEXICO",MX: CINE LATINO
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63210
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="MX: CANAL ONCE" tvg-logo="http://daleplaypro.com:8080/images/7ed9268ca902752e7cf484812b80ca90.png" group-title="(TV) MEXICO",MX: CANAL ONCE
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63211
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: AZTECA UNO HD" tvg-logo="http://daleplay.club:8080/images/076c903170789a70050e0acba1263eb3.png" group-title="(TV) MEXICO",MX: AZTECA UNO HD
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63213
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: MILENIO TV" tvg-logo="http://daleplay.club:8080/images/9fd485a0dfd8490a3d89efb325fdae21.png" group-title="(TV) MEXICO",MX: MILENIO TV
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63220
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="MX: De Pelicula" tvg-logo="http://daleplaypro.com:8080/images/7873cddaf3a01b83d332c89e07df3601.png" group-title="(TV) MEXICO",MX: De Pelicula
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63734
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="MX: DE PELICULAS PLUS" tvg-logo="http://daleplay.club:8080/images/8169a21543e3399cf0fae85dadbc21cd.png" group-title="(TV) MEXICO",MX: DE PELICULAS PLUS
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63735
+#EXTINF:-1 tvg-id="depeliculaclasico.mx" tvg-name="MX: De Pelicula Classico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/DPel%C3%ADculaCl%C3%A1sico_2021.svg/revision/latest/scale-to-width-down/340?cb=20210128110405" group-title="(TV) MEXICO",MX: De Pelicula Classico
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/63736
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium Oeste ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/moviecenteroeste128.png" group-title="24-7 CINE PPV",Moviecenter Premium Oeste ⁽ᴴᴰ⁾
 http://5tgvb.art:2052/St4rPl4yTV/St4rPl4y247TV/56424
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Kids ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/MovieCenterkids.png" group-title="24-7 CINE PPV",Moviecenter Kids ⁽ᴴᴰ⁾
