@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="LA:American Me" tvg-logo="http://mu03.wanicelife.com:8880/images/1ZQQi5AQCo4ThYxHPy6bKIMOrLm_small.jpg" group-title="Latino",LA:American Me
 http://95.214.235.96:8880/movie/D12m1858/59775695/34156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR CINEDOC&ROLL sd (C)" tvg-logo="https://www.google.com/search?q=movistar+cine+doc+%26+roll&tbm=isch&ved=2ahUKEwiopYuB_avxAhXUvJUCHVKAD7cQ2-cCegQIABAC&oq=movistar+cine&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgCMgIIADICCAAyAggAMgIIADIECAAQGDoECCMQJzoECAAQHjoECB4QCjoFCAAQzQI6BQgAELEDOgYIABAKEBg6BAgAEA1QjIoEWLvCBGDs0gRoAnAAeACAAZ0BiAGVEpIBBDQuMTaYAQCgAQHAAQE&sclient=mobile-gws-wiz-img&ei=LDrSYKjfA9T51sQP0oC-uAs&bih=600&biw=360&client=ms-android-huawei&prmd=minv#imgrc=BPGKS5dxjYKVSM" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR CINEDOC&ROLL sd (C)
+http://novared.pro:8080/dfsw572/5DUAnbrct7WJ/13444
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium Oeste ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/moviecenteroeste128.png" group-title="24-7 CINE PPV",Moviecenter Premium Oeste ⁽ᴴᴰ⁾
 http://5tgvb.art:2052/St4rPl4yTV/St4rPl4y247TV/56424
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Kids ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/MovieCenterkids.png" group-title="24-7 CINE PPV",Moviecenter Kids ⁽ᴴᴰ⁾
