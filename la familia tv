@@ -1,76 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="LA:American Me" tvg-logo="http://mu03.wanicelife.com:8880/images/1ZQQi5AQCo4ThYxHPy6bKIMOrLm_small.jpg" group-title="Latino",LA:American Me
 http://95.214.235.96:8880/movie/D12m1858/59775695/34156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="││CULT││(N) HISTORY 2D" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="││TV││CULTURA",││CULT││(N) HISTORY 2D
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/44
-#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ A&E (N)" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="││TV││ CINE",││CINE FHD││ A&E (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/102
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CINE FHD││ AMC (N)" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="││TV││ CINE",││CINE FHD││ AMC (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/103
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ AXN (N)" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="││TV││ CINE",││CINE HD││ AXN (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/104
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ CINE",││CINE HD││ STAR CHANNEL (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/108
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="││COMEDIA HD││  UNIVERSAL COMEDY (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="││TV││COMEDIA ",││COMEDIA HD││  UNIVERSAL COMEDY (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/109
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ CINEMAX (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="││TV││ CINE",││CINE HD││ CINEMAX (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/110
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="││TV││ CINE",││CINE HD││ DISNEY
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/112
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││PARAMOUT (N)" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="││TV││ CINE",││CINE HD││PARAMOUT (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/123
-#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="││CINE HD││ SONY (N)" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="││TV││ CINE",││CINE HD││ SONY (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/124
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ CINE",││CINE HD││SPACE (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/127
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││TNT (N)" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="││TV││ CINE",││CINE HD││TNT (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/128
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="││TV││ CINE",││CINE HD││ TNT SERIES (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/129
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││WARNER CHANNEL (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ CINE",││CINE HD││WARNER CHANNEL (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/130
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA",││CULT HD││  ANIMAL PLANET
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/151
-#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="││TV││ INFANTILES",││KIDS HD││INFANTIL BABY TV HD
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/167
-#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",││KIDS HD││ CARTOONITO
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/168
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="││KIDS HD││CARTOON NETWORK (N)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││CARTOON NETWORK (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/169
-#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ DISCOVERY KIDS HD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES",││KIDS││ DISCOVERY KIDS HD (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/170
-#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ DISNEY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ DISNEY CHANNEL (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/171
-#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD│N│DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES",││KIDS HD│N│DISNEY JUNIOR
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/172
-#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ NICK (N)" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ NICK (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/175
-#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK 2 TEAM NICK HD" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK 2 TEAM NICK HD
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/176
-#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD  (N)" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR HD  (N)
-http://spaticplas.org:8080/CwcspkjCgzeZ/m5mknNRdkmc9/177
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 1
-http://909931166193246282.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/246282.ts
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 2
-http://909931166193165358.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165358.ts
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 3
-http://909931166193165359.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165359.ts
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 4
-http://909931166193262412.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/262412.ts
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://imgfz.com/i/5LJ9p7e.png",LIGA DE CAMPEONES 5
-http://909931166193165365.ofd0219.xyz:80/play/hu420529/u67UVdGDuY/165365.ts
-#EXTINF:-1,CINE  | A&E HD.
-http://rasaiptv.com:8080/CarlosD/CarlosD/5
-#EXTINF:-1,CINE  | CINEMAX  FHD
-http://rasaiptv.com:8080/CarlosD/CarlosD/7
-#EXTINF:-1,CINE  | CINEMAX  SD
-http://rasaiptv.com:8080/CarlosD/CarlosD/9
-#EXTINF:-1,AR | F0X $PORTS. 3 HD
-http://rasaiptv.com:8080/CarlosD/CarlosD/11570
-#EXTINF:-1,AR | F0X SPORTS 3 SD
-http://rasaiptv.com:8080/CarlosD/CarlosD/11571
-#EXTINF:-1,MX | F0X $PORTS *PREMIUM HD
-http://rasaiptv.com:8080/CarlosD/CarlosD/11572
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium Oeste ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/moviecenteroeste128.png" group-title="24-7 CINE PPV",Moviecenter Premium Oeste ⁽ᴴᴰ⁾
 http://5tgvb.art:2052/St4rPl4yTV/St4rPl4y247TV/56424
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Kids ⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/MovieCenterkids.png" group-title="24-7 CINE PPV",Moviecenter Kids ⁽ᴴᴰ⁾
@@ -406,36 +336,6 @@ http://5tgvb.art:2052/St4rPl4yTV/St4rPl4y247TV/102523
 http://5tgvb.art:2052/St4rPl4yTV/St4rPl4y247TV/65814
 #EXTINF:-1 tvg-id="zonalatina.cl" tvg-name="Zona Latina ☃" tvg-logo="http://puntoz.xyz/LOGOS/zonalatinanew.png" group-title="CHILE",Zona Latina ☃
 http://5tgvb.art:2052/St4rPl4yTV/St4rPl4y247TV/65815
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Action" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Action
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/683
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Action 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Action 2
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/684
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Box Office" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Box Office
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/685
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Box Office 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Box Office 2
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/686
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Comedy" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Comedy
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/687
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Discovery" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Discovery
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/689
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Drama" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Drama
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/690
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Horror" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Horror
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/691
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Horror 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Horror 2
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/692
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Kids" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Kids
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/693
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Kids 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Kids 2
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/694
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Movies" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Movies
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/695
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Movies 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Movies 2
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/696
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Thriller" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Thriller
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/697
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Thriller 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES VIP",ES: Netflix Thriller 2
-http://vipfortic.top:8080/VIP010169396064318/1a5764cd7df7/698
 #EXTINF:-1 tvg-id="" tvg-name="LA:¡Game Over, Man!" tvg-logo="http://mu03.wanicelife.com:8880/images/1OW4I3R3TT0WQgOnVsdn8U6fgJY_small.jpg" group-title="Latino",LA:¡Game Over, Man!
 http://95.214.235.96:8880/movie/D12m1858/59775695/37148.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LA:¡Piratas!" tvg-logo="http://mu03.wanicelife.com:8880/images/pehCKuV9RLJCrlDMEm9L1WbIDm5_small.jpg" group-title="Latino",LA:¡Piratas!
