@@ -1,406 +1,425 @@
 #EXTM3U
-#EXTINF:-1,AMC FHD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/27683
-#EXTINF:-1,AXN HD 70-61
-http://etvhome.com:25461/Usuario02/Perrocko2/13635
-#EXTINF:-1,CINECANAL HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13387
-#EXTINF:-1,CINEMAX HD
-http://etvhome.com:25461/Usuario02/Perrocko2/13390
-#EXTINF:-1,Cinemax FHD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/279926
-#EXTINF:-1,CINEMA DINAMITA HD
-http://etvhome.com:25461/Usuario02/Perrocko2/99674
-#EXTINF:-1,112 DE PELICULA HD
-http://etvhome.com:25461/Usuario02/Perrocko2/123464
-#EXTINF:-1,111 DE PELICULA+ HD
-http://etvhome.com:25461/Usuario02/Perrocko2/13391
-#EXTINF:-1,110 DHE HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/74105
-#EXTINF:-1,109 EUROPA EUROPA HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/36546
-#EXTINF:-1,072 STAR CHANNEL HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/95776
-#EXTINF:-1,108 FX HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13344
-#EXTINF:-1,105 GOLDEN HD
-http://etvhome.com:25461/Usuario02/Perrocko2/76125
-#EXTINF:-1,107 GOLDEN EDGE HD
-http://etvhome.com:25461/Usuario02/Perrocko2/97691
-#EXTINF:-1,106 Golden Edge 61
-http://etvhome.com:25461/Usuario02/Perrocko2/35252
-#EXTINF:-1,103 GOLDEN PLUS HD 
-http://etvhome.com:25461/Usuario02/Perrocko2/13348
-#EXTINF:-1,101 GOLDEN PREMIER FHD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/76183
-#EXTINF:-1,102 GOLDEN PREMIER 2 70
-http://etvhome.com:25461/Usuario02/Perrocko2/132941
-#EXTINF:-1,094 HBO HD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173586
-#EXTINF:-1,095 HBO FHD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/172436
-#EXTINF:-1,096 HBO FHD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/20158
-#EXTINF:-1,098 HBO 2 HD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173581
-#EXTINF:-1,100 HBO 2 FHD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13349
-#EXTINF:-1,099 HBO 2 FHD SUR
-http://etvhome.com:25461/Usuario02/Perrocko2/165654
-#EXTINF:-1,084 HBO+ HD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173583
-#EXTINF:-1,085 HBO+ HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/20159
-#EXTINF:-1,097 HBO FAMILY FHD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13350
-#EXTINF:-1,092 HBO MUNDI HD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173589
-#EXTINF:-1,091 HBO POP HD
-http://etvhome.com:25461/Usuario02/Perrocko2/173591
-#EXTINF:-1,090 HBO SIGNATURE HD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173587
-#EXTINF:-1,087 HBO XTREME HD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173579
-#EXTINF:-1,088 HBO XTREME FHD SUR
-http://etvhome.com:25461/Usuario02/Perrocko2/262620
-#EXTINF:-1,089 HBO XTREME FHD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/28905
-#EXTINF:-1,086 HBO HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/173595
-#EXTINF:-1,093 HBO LATINO HD
-http://etvhome.com:25461/Usuario02/Perrocko2/173593
-#EXTINF:-1,083 HORRORFY TV HD
-http://etvhome.com:25461/Usuario02/Perrocko2/151975
-#EXTINF:-1,082 MORBIDO TV HD
-http://etvhome.com:25461/Usuario02/Perrocko2/127176
-#EXTINF:-1,081 MY TIME NETWORK HD
-http://etvhome.com:25461/Usuario02/Perrocko2/131053
-#EXTINF:-1,080 PANICO HD
-http://etvhome.com:25461/Usuario02/Perrocko2/59607
-#EXTINF:-1,079 PARAMOUNT CHANNEL HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13352
-#EXTINF:-1,078 SONY CHANNEL HD
-http://etvhome.com:25461/Usuario02/Perrocko2/73576
-#EXTINF:-1,075 SONY MOVIES HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13345
-#EXTINF:-1,073 SPACE HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/27861
-#EXTINF:-1,074 Space FHD SUR
-http://etvhome.com:25461/Usuario02/Perrocko2/219345
-#EXTINF:-1,070 STARZ ACTION HD
-http://etvhome.com:25461/Usuario02/Perrocko2/145737
-#EXTINF:-1,069 STARZ CLASSICS HD
-http://etvhome.com:25461/Usuario02/Perrocko2/145736
-#EXTINF:-1,068 STARZ FAMILY HD
-http://etvhome.com:25461/Usuario02/Perrocko2/145735
-#EXTINF:-1,071 STARZ  SUSPENSE HD
-http://etvhome.com:25461/Usuario02/Perrocko2/145734
-#EXTINF:-1,067 STUDIO UNIVERSAL® FHD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13356
-#EXTINF:-1,066 Adult Swim HD
-http://etvhome.com:25461/Usuario02/Perrocko2/13687
-#EXTINF:-1,063 TNT NOVELAS HD
-http://etvhome.com:25461/Usuario02/Perrocko2/137309
-#EXTINF:-1,065 TNT FHD  70
-http://etvhome.com:25461/Usuario02/Perrocko2/13367
-#EXTINF:-1,064 TNT HD SUR
-http://etvhome.com:25461/Usuario02/Perrocko2/63850
-#EXTINF:-1,062 TNT SERIES HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/36542
-#EXTINF:-1,061 TU CINE HD
-http://etvhome.com:25461/Usuario02/Perrocko2/16787
-#EXTINF:-1,059 UNIVERSAL CHANNEL HD
-http://etvhome.com:25461/Usuario02/Perrocko2/13364
-#EXTINF:-1,060 UNIVERSAL CHANNEL FHD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/36047
-#EXTINF:-1,058 UNIVERSAL CINEMA ESTE HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/143837
-#EXTINF:-1,057 UNIVERSAL COMEDY HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/143838
-#EXTINF:-1,056 UNIVERSAL CRIME HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/143839
-#EXTINF:-1,055 UNIVERSAL PREMIERE HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/143840
-#EXTINF:-1,053 WARNER TV HD 70-61
-http://etvhome.com:25461/Usuario02/Perrocko2/127034
-#EXTINF:-1,054 UNIVERSAL PREMIERE O HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/174402
-#EXTINF:-1,De Pelicula Clasico
-http://etvhome.com:25461/Usuario02/Perrocko2/189432
-#EXTINF:-1,104 GOLDEN MULTIPLEX 61
-http://etvhome.com:25461/Usuario02/Perrocko2/262363
-#EXTINF:-1,CLOVER HD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/288412
-#EXTINF:-1,CINE MEXICANO HD
-http://etvhome.com:25461/Usuario02/Perrocko2/144711
-#EXTINF:-1,HBOHD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/294777
-#EXTINF:-1,HBO XTREME HD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/294776
-#EXTINF:-1,AMC FHD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/134202
-#EXTINF:-1,A&E HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/85365
-#EXTINF:-1,Starz Edge
-http://etvhome.com:25461/Usuario02/Perrocko2/353052
-#EXTINF:-1,051 AMC SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/36347
-#EXTINF:-1,052 AXN SD 70-61
-http://etvhome.com:25461/Usuario02/Perrocko2/13388
-#EXTINF:-1,050 CANAL CLARO SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/127179
-#EXTINF:-1,048 CINECANAL SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/92604
-#EXTINF:-1,045 CINEMAX SD
-http://etvhome.com:25461/Usuario02/Perrocko2/24860
-#EXTINF:-1,049 CINE LATINO SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/28575
-#EXTINF:-1,046 CINERAMA
-http://etvhome.com:25461/Usuario02/Perrocko2/127180
-#EXTINF:-1,047 CINEMA PLATINO 2 SD
-http://etvhome.com:25461/Usuario02/Perrocko2/133990
-#EXTINF:-1,044 CLARO CINEMA SD
-http://etvhome.com:25461/Usuario02/Perrocko2/135282
-#EXTINF:-1,041 DHE SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/31814
-#EXTINF:-1,039 EUROPA EUROPA SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/16786
-#EXTINF:-1,014 STAR CHANNEL SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13392
-#EXTINF:-1,037 FX SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13384
-#EXTINF:-1,033 GOLDEN SD
-http://etvhome.com:25461/Usuario02/Perrocko2/13347
-#EXTINF:-1,036 GOLDEN EDGE SD
-http://etvhome.com:25461/Usuario02/Perrocko2/13346
-#EXTINF:-1,035 GOLDEN PLUS SD
-http://etvhome.com:25461/Usuario02/Perrocko2/37927
-#EXTINF:-1,034 GOLDEN PREMIER SD
-http://etvhome.com:25461/Usuario02/Perrocko2/171053
-#EXTINF:-1,026 HBO SD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173585
-#EXTINF:-1,031 HBO 2 SD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173582
-#EXTINF:-1,021 HBO+ SD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173584
-#EXTINF:-1,030 HBO FAMILY SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/31027
-#EXTINF:-1,029 HBO MUNDI SD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173590
-#EXTINF:-1,028 HBO POP SD
-http://etvhome.com:25461/Usuario02/Perrocko2/173592
-#EXTINF:-1,025 HBO SIGNATURE SD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173588
-#EXTINF:-1,023 HBO XTREME SD H.265
-http://etvhome.com:25461/Usuario02/Perrocko2/173580
-#EXTINF:-1,018 MULTIPREMIER SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/103087
-#EXTINF:-1,017 PARAMOUNT CHANNEL SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/28827
-#EXTINF:-1,016 SONY CHANNEL SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13369
-#EXTINF:-1,015 SPACE SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/27862
-#EXTINF:-1,013 STUDIO UNIVERSAL SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13357
-#EXTINF:-1,012 USA SD
-http://etvhome.com:25461/Usuario02/Perrocko2/13358
-#EXTINF:-1,011 TCM SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13360
-#EXTINF:-1,010 TNT SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13366
-#EXTINF:-1,009 TNT SERIES SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13362
-#EXTINF:-1,008 TU CINE SD
-http://etvhome.com:25461/Usuario02/Perrocko2/16788
-#EXTINF:-1,007 UNIVERSAL CHANNEL SD
-http://etvhome.com:25461/Usuario02/Perrocko2/13363
-#EXTINF:-1,004 UNIVERSAL CRIME SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28904
-#EXTINF:-1,003 UNIVERSAL PREMIERE SD
-http://etvhome.com:25461/Usuario02/Perrocko2/13375
-#EXTINF:-1,001 WARNER TV SD 70-61
-http://etvhome.com:25461/Usuario02/Perrocko2/36360
-#EXTINF:-1,042 DE PELICULA SD
-http://etvhome.com:25461/Usuario02/Perrocko2/173866
-#EXTINF:-1,019 Multicinema SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/247511
-#EXTINF:-1,040 EURO Channel SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/247519
-#EXTINF:-1,043 CLOVER SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/288411
-#EXTINF:-1,038 Film&Arts SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/288415
-#EXTINF:-1,CINE MEXICANO SD 
-http://etvhome.com:25461/Usuario02/Perrocko2/173578
-#EXTINF:-1,Universal SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/294775
-#EXTINF:-1,AMC SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/134181
-#EXTINF:-1,A&E SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/14088
-#EXTINF:-1,AR | DIRECTV SPORTS SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28939
-#EXTINF:-1,AR | DIRECTV SPORTS + SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28936
-#EXTINF:-1,AR | DIRECTV SPORTS 2 SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28940
-#EXTINF:-1,AR | ESPN SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28942
-#EXTINF:-1,AR | CANAL ESPN SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/97873
-#EXTINF:-1,AR | ESPN 2 SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/90137
-#EXTINF:-1,AR | ESPN 3 SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28944
-#EXTINF:-1,AR | ESPN 4 SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/135264
-#EXTINF:-1,MX | ESPN EXTRA FHD
-http://etvhome.com:25461/Usuario02/Perrocko2/28949
-#EXTINF:-1,AR | ESPN PREMIUM SD
-http://etvhome.com:25461/Usuario02/Perrocko2/36541
-#EXTINF:-1,CL | FOX SPORTS 1 SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/28951
-#EXTINF:-1,AR | FOX SPORTS 2 SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/28952
-#EXTINF:-1,AR | FOX SPORTS 3 SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/28953
-#EXTINF:-1,AR | TNT SPORTS SD
-http://etvhome.com:25461/Usuario02/Perrocko2/36354
-#EXTINF:-1,AR | TYC SPORTS SD
-http://etvhome.com:25461/Usuario02/Perrocko2/36355
-#EXTINF:-1,AR | TYC SPORTS [ int ]
-http://etvhome.com:25461/Usuario02/Perrocko2/74091
-#EXTINF:-1,CO | WiN Sports SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/31352
-#EXTINF:-1,CO | WiN Sports PLUS SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/31353
-#EXTINF:-1,LAT | beiN SPORTS Ñ SD
-http://etvhome.com:25461/Usuario02/Perrocko2/36424
-#EXTINF:-1,MX | AFIZZIONADOS SD
-http://etvhome.com:25461/Usuario02/Perrocko2/131128
-#EXTINF:-1,MX | ESPN 3 SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28947
-#EXTINF:-1,MX | FOX SPORTS 3 SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28956
-#EXTINF:-1,USA | BOX NATION
-http://etvhome.com:25461/Usuario02/Perrocko2/95777
-#EXTINF:-1,MX | FOX SPORTS PREMIUM SD
-http://etvhome.com:25461/Usuario02/Perrocko2/174401
-#EXTINF:-1,PXTV SPORTS 70
-http://etvhome.com:25461/Usuario02/Perrocko2/247509
-#EXTINF:-1,AC | CLARO SPORTS 2 SD
-http://etvhome.com:25461/Usuario02/Perrocko2/247521
-#EXTINF:-1,AC | CLARO SPORTS 1 SD
-http://etvhome.com:25461/Usuario02/Perrocko2/247522
-#EXTINF:-1,MX | TUDN SD
-http://etvhome.com:25461/Usuario02/Perrocko2/140158
-#EXTINF:-1,MX | FOX SPORTS 2 SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28955
-#EXTINF:-1,MX | FOX SPORTS SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28954
-#EXTINF:-1,MX | ESPN 2 SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28946
-#EXTINF:-1,MX | ESPN SD
-http://etvhome.com:25461/Usuario02/Perrocko2/28945
-#EXTINF:-1,AR | CANAL ESPN 2 SD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/28943
-#EXTINF:-1,CL | ESPN SD
-http://etvhome.com:25461/Usuario02/Perrocko2/132944
-#EXTINF:-1,BABY TV 70-61
-http://etvhome.com:25461/Usuario02/Perrocko2/13613
-#EXTINF:-1,BOING
-http://etvhome.com:25461/Usuario02/Perrocko2/45380
-#EXTINF:-1,CARTOONITO SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/28571
-#EXTINF:-1,CARTOONITO HD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/13615
-#EXTINF:-1,CARTOON NETWORK SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/28573
-#EXTINF:-1,CARTOON NETWORK FHD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13617
-#EXTINF:-1,DISCOVERY KIDS SD
-http://etvhome.com:25461/Usuario02/Perrocko2/13619
-#EXTINF:-1,DISCOVERY KIDS HD 70-61
-http://etvhome.com:25461/Usuario02/Perrocko2/13618
-#EXTINF:-1,DISNEY CHANNEL SD
-http://etvhome.com:25461/Usuario02/Perrocko2/13620
-#EXTINF:-1,DISNEY CHANNEL HD
-http://etvhome.com:25461/Usuario02/Perrocko2/107634
-#EXTINF:-1,DISNEY JR. SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13623
-#EXTINF:-1,DISNEY JR HD
-http://etvhome.com:25461/Usuario02/Perrocko2/59639
-#EXTINF:-1,LEGO WORLD
-http://etvhome.com:25461/Usuario02/Perrocko2/134128
-#EXTINF:-1,NICK SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13629
-#EXTINF:-1,NICK HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/13627
-#EXTINF:-1,NICK JR SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/28572
-#EXTINF:-1,NICK JR HD
-http://etvhome.com:25461/Usuario02/Perrocko2/13628
-#EXTINF:-1,PAKA PAKA
-http://etvhome.com:25461/Usuario02/Perrocko2/24644
-#EXTINF:-1,SEMILLITAS 70
-http://etvhome.com:25461/Usuario02/Perrocko2/111929
-#EXTINF:-1,TEEN NICK HD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/135263
-#EXTINF:-1,TOONCAST 70
-http://etvhome.com:25461/Usuario02/Perrocko2/28825
-#EXTINF:-1,ZOOMOO 70
-http://etvhome.com:25461/Usuario02/Perrocko2/132963
-#EXTINF:-1,DreamWorks HD
-http://etvhome.com:25461/Usuario02/Perrocko2/273443
-#EXTINF:-1,BitMe SD
-http://etvhome.com:25461/Usuario02/Perrocko2/273444
-#EXTINF:-1,BABY FIRTS SD 70
-http://etvhome.com:25461/Usuario02/Perrocko2/276570
-#EXTINF:-1,Lolly Kids HD
-http://etvhome.com:25461/Usuario02/Perrocko2/262618
-#EXTINF:-1,Disney HD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/280166
-#EXTINF:-1,LATINO KIDS 
-http://etvhome.com:25461/Usuario02/Perrocko2/118914
-#EXTINF:-1, ABN TV (CO)
-http://etvhome.com:25461/Usuario02/Perrocko2/35640
-#EXTINF:-1,ALIENTO Vision (US)
-http://etvhome.com:25461/Usuario02/Perrocko2/35634
-#EXTINF:-1,BETHEL TV HD 61
-http://etvhome.com:25461/Usuario02/Perrocko2/35624
-#EXTINF:-1,CANAL LUZ
-http://etvhome.com:25461/Usuario02/Perrocko2/167327
-#EXTINF:-1,CBN En Español
-http://etvhome.com:25461/Usuario02/Perrocko2/13568
-#EXTINF:-1,ENLACE (CR) 70
-http://etvhome.com:25461/Usuario02/Perrocko2/35633
-#EXTINF:-1,EWTN (ES)
-http://etvhome.com:25461/Usuario02/Perrocko2/131048
-#EXTINF:-1,LOGOS TV (ES)
-http://etvhome.com:25461/Usuario02/Perrocko2/35615
-#EXTINF:-1,MTV Embarazada a los 16
-http://etvhome.com:25461/Usuario02/Perrocko2/354081
-#EXTINF:-1,MTV Latino 
-http://etvhome.com:25461/Usuario02/Perrocko2/354082
-#EXTINF:-1,MTV Tattoo A Dos
-http://etvhome.com:25461/Usuario02/Perrocko2/354084
-#EXTINF:-1,Mundo 
-http://etvhome.com:25461/Usuario02/Perrocko2/354086
-#EXTINF:-1,PMutante X 
-http://etvhome.com:25461/Usuario02/Perrocko2/354087
-#EXTINF:-1,Naturaleza 
-http://etvhome.com:25461/Usuario02/Perrocko2/354089
-#EXTINF:-1,Nick Clásico
-http://etvhome.com:25461/Usuario02/Perrocko2/354092
-#EXTINF:-1,Nick Latino
-http://etvhome.com:25461/Usuario02/Perrocko2/354093
-#EXTINF:-1,Novelas Dramas 
-http://etvhome.com:25461/Usuario02/Perrocko2/354097
-#EXTINF:-1,Novelas Romance 
-http://etvhome.com:25461/Usuario02/Perrocko2/354100
-#EXTINF:-1,Novelas Thriller 
-http://etvhome.com:25461/Usuario02/Perrocko2/354102
-#EXTINF:-1,Series Comedia 
-http://etvhome.com:25461/Usuario02/Perrocko2/354107
-#EXTINF:-1,Telemundo Telenovelas 
+
+#EXTINF:-1,IN : & PICTURES HD
+http://randomserver.site:2086/123456789/123456789/94737
+#EXTINF:-1,IN : & PRIVE HD 
+http://randomserver.site:2086/123456789/123456789/91908
+#EXTINF:-1,IN : & TV HD
+http://randomserver.site:2086/123456789/123456789/94738
+#EXTINF:-1,IN : 24 NEWS HD
+http://randomserver.site:2086/123456789/123456789/94932
+#EXTINF:-1,IN : 24 NEWS LIVE TV
+http://randomserver.site:2086/123456789/123456789/94933
+#EXTINF:-1,IN : 8XM HD 
+http://randomserver.site:2086/123456789/123456789/91904
+#EXTINF:-1,IN : 92 NEWS HD
+http://randomserver.site:2086/123456789/123456789/94934
+#EXTINF:-1,IN : 9XM
+http://randomserver.site:2086/123456789/123456789/94935
+#EXTINF:-1,IN : A-PLUS
+http://randomserver.site:2086/123456789/123456789/94936
+#EXTINF:-1,IN : AAJ ENTERTAINMENT
+http://randomserver.site:2086/123456789/123456789/94937
+#EXTINF:-1,IN : AAJ KATEZ 
+http://randomserver.site:2086/123456789/123456789/91902
+#EXTINF:-1,IN : AAJ NEWS
+http://randomserver.site:2086/123456789/123456789/94938
+#EXTINF:-1,IN : AAJ TAK
+http://randomserver.site:2086/123456789/123456789/95080
+#EXTINF:-1,IN : ABB TAK PK
+http://randomserver.site:2086/123456789/123456789/94940
+#EXTINF:-1,IN : ANIMAL PLANET HD 
+http://randomserver.site:2086/123456789/123456789/91900
+#EXTINF:-1,IN : ANIMAL PLANET WORLD HD 
+http://randomserver.site:2086/123456789/123456789/91899
+#EXTINF:-1,IN : AP KA COLOR
+http://randomserver.site:2086/123456789/123456789/94843
+#EXTINF:-1,IN : APNA
+http://randomserver.site:2086/123456789/123456789/94941
+#EXTINF:-1,IN : ARUJ TV
+http://randomserver.site:2086/123456789/123456789/95065
+#EXTINF:-1,IN : ARY DIGITAL
+http://randomserver.site:2086/123456789/123456789/94942
+#EXTINF:-1,IN : ARY FAMILY
+http://randomserver.site:2086/123456789/123456789/94943
+#EXTINF:-1,IN : ARY MUSIK
+http://randomserver.site:2086/123456789/123456789/94944
+#EXTINF:-1,IN : ARY NEWS
+http://randomserver.site:2086/123456789/123456789/94945
+#EXTINF:-1,IN : ARY QTV
+http://randomserver.site:2086/123456789/123456789/94946
+#EXTINF:-1,IN : ARY ZINDAGI
+http://randomserver.site:2086/123456789/123456789/94947
+#EXTINF:-1,IN : ASIANET HD
+http://randomserver.site:2086/123456789/123456789/94739
+#EXTINF:-1,IN : ASIANET MOVIES
+http://randomserver.site:2086/123456789/123456789/94829
+#EXTINF:-1,IN : ASIANET PLUS
+http://randomserver.site:2086/123456789/123456789/94827
+#EXTINF:-1,IN : ATV
+http://randomserver.site:2086/123456789/123456789/94948
+#EXTINF:-1,IN : AVT KHYBER
+http://randomserver.site:2086/123456789/123456789/94949
+#EXTINF:-1,IN : AVT KHYBER NEWS
+http://randomserver.site:2086/123456789/123456789/94950
+#EXTINF:-1,IN : AXN HD
+http://randomserver.site:2086/123456789/123456789/94816
+#EXTINF:-1,IN : B4U MOVIES 
+http://randomserver.site:2086/123456789/123456789/91897
+#EXTINF:-1,IN : B4U MUSIC
+http://randomserver.site:2086/123456789/123456789/95074
+#EXTINF:-1,IN : BBC EARTH HD
+http://randomserver.site:2086/123456789/123456789/94740
+#EXTINF:-1,IN : BHOJPORI CINEMA 
+http://randomserver.site:2086/123456789/123456789/91894
+#EXTINF:-1,IN : BIG MAGIC 
+http://randomserver.site:2086/123456789/123456789/91893
+#EXTINF:-1,IN : BOL ENTERTAINMENT HD
+http://randomserver.site:2086/123456789/123456789/94951
+#EXTINF:-1,IN : BOL NEWS HD
+http://randomserver.site:2086/123456789/123456789/94952
+#EXTINF:-1,IN : CARTOON NETWORK
+http://randomserver.site:2086/123456789/123456789/91891
+#EXTINF:-1,IN : CHANNEL 24 
+http://randomserver.site:2086/123456789/123456789/94953
+#EXTINF:-1,IN : CINEMACHI KIDS
+http://randomserver.site:2086/123456789/123456789/91890
+#EXTINF:-1,IN : CINEPLEX HD
+http://randomserver.site:2086/123456789/123456789/94741
+#EXTINF:-1,IN : CITY 41 
+http://randomserver.site:2086/123456789/123456789/94954
+#EXTINF:-1,IN : CITY 42 
+http://randomserver.site:2086/123456789/123456789/94955
+#EXTINF:-1,IN : CITY 42 NEWS
+http://randomserver.site:2086/123456789/123456789/94956
+#EXTINF:-1,IN : COLORS BANGLA HD 
+http://randomserver.site:2086/123456789/123456789/91888
+#EXTINF:-1,IN : COLORS GUJRATI
+http://randomserver.site:2086/123456789/123456789/94744
+#EXTINF:-1,IN : COLORS HD 
+http://randomserver.site:2086/123456789/123456789/91887
+#EXTINF:-1,IN : COLORS KANNADA HD
+http://randomserver.site:2086/123456789/123456789/94746
+#EXTINF:-1,IN : COLORS MARATHI HD
+http://randomserver.site:2086/123456789/123456789/94742
+#EXTINF:-1,IN : COLORS SUPER KANNADA
+http://randomserver.site:2086/123456789/123456789/94815
+#EXTINF:-1,IN : COLORS TAMIL HD
+http://randomserver.site:2086/123456789/123456789/94814
+#EXTINF:-1,IN : COLORS UK 
+http://randomserver.site:2086/123456789/123456789/91884
+#EXTINF:-1,IN : DANGAL 
+http://randomserver.site:2086/123456789/123456789/91883
+#EXTINF:-1,IN : DAWN NEWS
+http://randomserver.site:2086/123456789/123456789/95057
+#EXTINF:-1,IN : DD ARUN
+http://randomserver.site:2086/123456789/123456789/91882
+#EXTINF:-1,IN : DD BANGLA 
+http://randomserver.site:2086/123456789/123456789/91881
+#EXTINF:-1,IN : DD BHARAT 
+http://randomserver.site:2086/123456789/123456789/91880
+#EXTINF:-1,IN : DD CHANDANA 
+http://randomserver.site:2086/123456789/123456789/91879
+#EXTINF:-1,IN : DD GIRNER 
+http://randomserver.site:2086/123456789/123456789/91878
+#EXTINF:-1,IN : DD KISAN 
+http://randomserver.site:2086/123456789/123456789/91877
+#EXTINF:-1,IN : DD PUNJABI 
+http://randomserver.site:2086/123456789/123456789/91876
+#EXTINF:-1,IN : DD SPORTS 
+http://randomserver.site:2086/123456789/123456789/91875
+#EXTINF:-1,IN : DD URDU 
+http://randomserver.site:2086/123456789/123456789/91874
+#EXTINF:-1,IN : DISCOVERY TURBO 
+http://randomserver.site:2086/123456789/123456789/91870
+#EXTINF:-1,IN : DISNEY HD 
+http://randomserver.site:2086/123456789/123456789/91869
+#EXTINF:-1,IN : DUNIYA TV
+http://randomserver.site:2086/123456789/123456789/94957
+#EXTINF:-1,IN : DUS NEWS
+http://randomserver.site:2086/123456789/123456789/94971
+#EXTINF:-1,IN : EPIC HD 
+http://randomserver.site:2086/123456789/123456789/91868
+#EXTINF:-1,IN : ETV CINEMA
+http://randomserver.site:2086/123456789/123456789/94822
+#EXTINF:-1,IN : ETV HD
+http://randomserver.site:2086/123456789/123456789/94748
+#EXTINF:-1,IN : ETV LIFE
+http://randomserver.site:2086/123456789/123456789/94821
+#EXTINF:-1,IN : ETV PLUS
+http://randomserver.site:2086/123456789/123456789/94820
+#EXTINF:-1,IN : ETV UK
+http://randomserver.site:2086/123456789/123456789/91866
+#EXTINF:-1,IN : EXPRESS ENTERTAINMENT
+http://randomserver.site:2086/123456789/123456789/94958
+#EXTINF:-1,IN : EXPRESS NEWS
+http://randomserver.site:2086/123456789/123456789/94959
+#EXTINF:-1,IN : FILMAZIA
+http://randomserver.site:2086/123456789/123456789/94960
+#EXTINF:-1,IN : FILMWORLD
+http://randomserver.site:2086/123456789/123456789/94961
+#EXTINF:-1,IN : FLOWER TV
+http://randomserver.site:2086/123456789/123456789/94813
+#EXTINF:-1,IN : FOX LIFE HD 
+http://randomserver.site:2086/123456789/123456789/91863
+#EXTINF:-1,IN : GEMINI COMEDY
+http://randomserver.site:2086/123456789/123456789/94809
+#EXTINF:-1,IN : GEMINI HD
+http://randomserver.site:2086/123456789/123456789/94749
+#EXTINF:-1,IN : GEMINI LIFE
+http://randomserver.site:2086/123456789/123456789/94810
+#EXTINF:-1,IN : GEMINI MOVIES
+http://randomserver.site:2086/123456789/123456789/94808
+#EXTINF:-1,IN : GEO ENTERTAINMENT
+http://randomserver.site:2086/123456789/123456789/94962
+#EXTINF:-1,IN : GEO KAHANI
+http://randomserver.site:2086/123456789/123456789/94963
+#EXTINF:-1,IN : GEO NEWS HD
+http://randomserver.site:2086/123456789/123456789/94964
+#EXTINF:-1,IN : GEO SUPER
+http://randomserver.site:2086/123456789/123456789/94965
+#EXTINF:-1,IN : GEO TEZ
+http://randomserver.site:2086/123456789/123456789/94966
+#EXTINF:-1,IN : GNN NEWS HD
+http://randomserver.site:2086/123456789/123456789/94967
+#EXTINF:-1,IN : GTV HD
+http://randomserver.site:2086/123456789/123456789/95056
+#EXTINF:-1,IN : HADI TV
+http://randomserver.site:2086/123456789/123456789/95064
+#EXTINF:-1,IN : HBO HD 
+http://randomserver.site:2086/123456789/123456789/91862
+#EXTINF:-1,IN : HBO PAKISTAN
+http://randomserver.site:2086/123456789/123456789/95062
+#EXTINF:-1,IN : HISTORY HD 
+http://randomserver.site:2086/123456789/123456789/91861
+#EXTINF:-1,IN : HUM HD
+http://randomserver.site:2086/123456789/123456789/94968
+#EXTINF:-1,IN : HUM NEWS HD
+http://randomserver.site:2086/123456789/123456789/94969
+#EXTINF:-1,IN : HUM SITRAY
+http://randomserver.site:2086/123456789/123456789/94970
+#EXTINF:-1,IN : INDIA NEWS 
+http://randomserver.site:2086/123456789/123456789/91859
+#EXTINF:-1,IN : INDIA TV
+http://randomserver.site:2086/123456789/123456789/94750
+#EXTINF:-1,IN : JALSA MOVIES HD
+http://randomserver.site:2086/123456789/123456789/94751
+#EXTINF:-1,IN : JALWA
+http://randomserver.site:2086/123456789/123456789/94972
+#EXTINF:-1,IN : JAYA MAX
+http://randomserver.site:2086/123456789/123456789/95085
+#EXTINF:-1,IN : JAYA MOVIES
+http://randomserver.site:2086/123456789/123456789/95084
+#EXTINF:-1,IN : JAYA PLUS
+http://randomserver.site:2086/123456789/123456789/95129
+#EXTINF:-1,IN : JAYA TV
+http://randomserver.site:2086/123456789/123456789/95083
+#EXTINF:-1,IN : KASHISH
+http://randomserver.site:2086/123456789/123456789/95053
+#EXTINF:-1,IN : KAY-2
+http://randomserver.site:2086/123456789/123456789/94973
+#EXTINF:-1,IN : KOHINOOR NEWS
+http://randomserver.site:2086/123456789/123456789/95060
+#EXTINF:-1,IN : KTN ENTERTAINMENT
+http://randomserver.site:2086/123456789/123456789/95054
+#EXTINF:-1,IN : KTV HD 
+http://randomserver.site:2086/123456789/123456789/91856
+#EXTINF:-1,IN : LAHORE NEWS HD
+http://randomserver.site:2086/123456789/123456789/94974
+#EXTINF:-1,IN : LAHORE RUNG
+http://randomserver.site:2086/123456789/123456789/94975
+#EXTINF:-1,IN : LOK SABHA
+http://randomserver.site:2086/123456789/123456789/91855
+#EXTINF:-1,IN : MAA GOLD
+http://randomserver.site:2086/123456789/123456789/94752
+#EXTINF:-1,IN : MAA HD
+http://randomserver.site:2086/123456789/123456789/94753
+#EXTINF:-1,IN : MAA MOVIES
+http://randomserver.site:2086/123456789/123456789/94754
+#EXTINF:-1,IN : MADNI TV
+http://randomserver.site:2086/123456789/123456789/94976
+#EXTINF:-1,IN : MAHA MOVIE
+http://randomserver.site:2086/123456789/123456789/95076
+#EXTINF:-1,IN : MASTI 
+http://randomserver.site:2086/123456789/123456789/91853
+#EXTINF:-1,IN : MTV BEATS
+http://randomserver.site:2086/123456789/123456789/95079
+#EXTINF:-1,IN : NAT GEO WILD
+http://randomserver.site:2086/123456789/123456789/91852
+#EXTINF:-1,IN : NATIONAL GEOGRAPHIC 
+http://randomserver.site:2086/123456789/123456789/91851
+#EXTINF:-1,IN : NDTV INDIA
+http://randomserver.site:2086/123456789/123456789/95078
+#EXTINF:-1,IN : NEWS ONE
+http://randomserver.site:2086/123456789/123456789/94979
+#EXTINF:-1,IN : NICK HD 
+http://randomserver.site:2086/123456789/123456789/91849
+#EXTINF:-1,IN : OXYGEN HD
+http://randomserver.site:2086/123456789/123456789/95051
+#EXTINF:-1,IN : PAIGHAM PASHTOO 
+http://randomserver.site:2086/123456789/123456789/91848
+#EXTINF:-1,IN : PAIGHAM URDU 
+http://randomserver.site:2086/123456789/123456789/91847
+#EXTINF:-1,IN : PASHTO 1
+http://randomserver.site:2086/123456789/123456789/94980
+#EXTINF:-1,IN : PEACE TV
+http://randomserver.site:2086/123456789/123456789/95066
+#EXTINF:-1,IN : PEACE TV ENGLISH
+http://randomserver.site:2086/123456789/123456789/91846
+#EXTINF:-1,IN : PTC CHAK DE 
+http://randomserver.site:2086/123456789/123456789/91843
+#EXTINF:-1,IN : PTC MUSIC
+http://randomserver.site:2086/123456789/123456789/94817
+#EXTINF:-1,IN : PTC NEWS
+http://randomserver.site:2086/123456789/123456789/91842
+#EXTINF:-1,IN : PTC PUNJABI
+http://randomserver.site:2086/123456789/123456789/91841
+#EXTINF:-1,IN : PTC PUNJABI GOLD
+http://randomserver.site:2086/123456789/123456789/94818
+#EXTINF:-1,IN : PTC SIMRAN
+http://randomserver.site:2086/123456789/123456789/94819
+#EXTINF:-1,IN : PTV GLOBAL 
+http://randomserver.site:2086/123456789/123456789/94982
+#EXTINF:-1,IN : PTV HOME
+http://randomserver.site:2086/123456789/123456789/94983
+#EXTINF:-1,IN : PTV NEWS
+http://randomserver.site:2086/123456789/123456789/94984
+#EXTINF:-1,IN : PTV SPORTS
+http://randomserver.site:2086/123456789/123456789/94985
+#EXTINF:-1,IN : PTV WORLD
+http://randomserver.site:2086/123456789/123456789/94986
+#EXTINF:-1,IN : PUBLIC NEWS HD
+http://randomserver.site:2086/123456789/123456789/94987
+#EXTINF:-1,IN : RAJ DIGITAL+
+http://randomserver.site:2086/123456789/123456789/95081
+#EXTINF:-1,IN : RAJ TV
+http://randomserver.site:2086/123456789/123456789/95082
+#EXTINF:-1,IN : RAJYA SABHA
+http://randomserver.site:2086/123456789/123456789/91839
+#EXTINF:-1,IN : REPUBLIC NEWS
+http://randomserver.site:2086/123456789/123456789/91838
+#EXTINF:-1,IN : ROHI TV
+http://randomserver.site:2086/123456789/123456789/95061
+#EXTINF:-1,IN : ROZE NEWS
+http://randomserver.site:2086/123456789/123456789/95058
+#EXTINF:-1,IN : SAMMA NEWS
+http://randomserver.site:2086/123456789/123456789/94988
+#EXTINF:-1,IN : SANJH TV
+http://randomserver.site:2086/123456789/123456789/95087
+#EXTINF:-1,IN : SEE TV
+http://randomserver.site:2086/123456789/123456789/95052
+#EXTINF:-1,IN : SET DIA
+http://randomserver.site:2086/123456789/123456789/94755
+#EXTINF:-1,IN : SINDH ENTERTAINMENT
+http://randomserver.site:2086/123456789/123456789/95055
+#EXTINF:-1,IN : SKY STAR MOVIES
+http://randomserver.site:2086/123456789/123456789/91837
+#EXTINF:-1,IN : SONY HD 
+http://randomserver.site:2086/123456789/123456789/91836
+#EXTINF:-1,IN : SONY MARATHI SD
+http://randomserver.site:2086/123456789/123456789/94812
+#EXTINF:-1,IN : SONY MAX HD
+http://randomserver.site:2086/123456789/123456789/94766
+#EXTINF:-1,IN : SONY PIX HD
+http://randomserver.site:2086/123456789/123456789/94767
+#EXTINF:-1,IN : SONY SAB HD
+http://randomserver.site:2086/123456789/123456789/94768
+#EXTINF:-1,IN : SONY SIX HD
+http://randomserver.site:2086/123456789/123456789/94770
+#EXTINF:-1,IN : SONY TEN 1 HD
+http://randomserver.site:2086/123456789/123456789/94771
+#EXTINF:-1,IN : SONY TEN 2 HD
+http://randomserver.site:2086/123456789/123456789/94772
+#EXTINF:-1,IN : SONY TEN 3 HD
+http://randomserver.site:2086/123456789/123456789/94773
+#EXTINF:-1,IN : STAR BHARAT 
+http://randomserver.site:2086/123456789/123456789/91833
+#EXTINF:-1,IN : STAR GOLD HD
+http://randomserver.site:2086/123456789/123456789/94775
+#EXTINF:-1,IN : STAR GOLD SELECT
+http://randomserver.site:2086/123456789/123456789/94776
+#EXTINF:-1,IN : STAR JALSA HD
+http://randomserver.site:2086/123456789/123456789/94777
+#EXTINF:-1,IN : STAR MOVIES SELECT HD
+http://randomserver.site:2086/123456789/123456789/94828
+#EXTINF:-1,IN : STAR PLUS HD 
+http://randomserver.site:2086/123456789/123456789/91828
+#EXTINF:-1,IN : STAR PRAVAH HD
+http://randomserver.site:2086/123456789/123456789/94779
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 50FPS H.264
+http://randomserver.site:2086/123456789/123456789/94780
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
+http://randomserver.site:2086/123456789/123456789/94781
+#EXTINF:-1,IN : STAR SPORTS 2 HD
+http://randomserver.site:2086/123456789/123456789/94784
+#EXTINF:-1,IN : STAR SPORTS 2 HD 1080 H.264
+http://randomserver.site:2086/123456789/123456789/94785
+#EXTINF:-1,IN : STAR SPORTS HINDI 1 HD
+http://randomserver.site:2086/123456789/123456789/94788
+#EXTINF:-1,IN : STAR SPORTS SELECT 1 HD
+http://randomserver.site:2086/123456789/123456789/94789
+#EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
+http://randomserver.site:2086/123456789/123456789/94790
+#EXTINF:-1,IN : STAR SPORTS TAMIL 1
+http://randomserver.site:2086/123456789/123456789/94792
+#EXTINF:-1,IN : STAR SUVARNA
+http://randomserver.site:2086/123456789/123456789/94811
+#EXTINF:-1,IN : STAR VIJAY HD
+http://randomserver.site:2086/123456789/123456789/94791
+#EXTINF:-1,IN : STAR VIJAY SUPER
+http://randomserver.site:2086/123456789/123456789/94807
+#EXTINF:-1,IN : STAR WORLD PREMIERE HD
+http://randomserver.site:2086/123456789/123456789/94826
+#EXTINF:-1,IN : SUN TV HD
+http://randomserver.site:2086/123456789/123456789/94794
+#EXTINF:-1,IN : SURYA HD
+http://randomserver.site:2086/123456789/123456789/94795
+#EXTINF:-1,IN : SURYA SAMACHAR 
+http://randomserver.site:2086/123456789/123456789/91818
+#EXTINF:-1,IN : TEN 1 HD 
+http://randomserver.site:2086/123456789/123456789/91817
+#EXTINF:-1,IN : TEN 2 HD 
+http://randomserver.site:2086/123456789/123456789/91816
+#EXTINF:-1,IN : TEN SPORTS 
+http://randomserver.site:2086/123456789/123456789/91814
+#EXTINF:-1,IN : TEN SPORTS PK
+http://randomserver.site:2086/123456789/123456789/94989
+#EXTINF:-1,IN : TRAVEL XP HD 
+http://randomserver.site:2086/123456789/123456789/91812
+#EXTINF:-1,IN : UDAYA HD
+http://randomserver.site:2086/123456789/123456789/94796
+#EXTINF:-1,IN : UDAYA MOVIES
+http://randomserver.site:2086/123456789/123456789/94833
+#EXTINF:-1,IN : URDU 1
+http://randomserver.site:2086/123456789/123456789/94991
+#EXTINF:-1,IN : WASEEB TV
+http://randomserver.site:2086/123456789/123456789/95063
+#EXTINF:-1,IN : WILLOW CRICKET HD
+http://randomserver.site:2086/123456789/123456789/94797
+#EXTINF:-1,IN : ZEE ACTION
+http://randomserver.site:2086/123456789/123456789/95046
+#EXTINF:-1,IN : ZEE ANMOL CINEMA
+http://randomserver.site:2086/123456789/123456789/95047
+#EXTINF:-1,IN : ZEE BANGLA HD
+http://randomserver.site:2086/123456789/123456789/94798
+#EXTINF:-1,IN : ZEE CAFE
+http://randomserver.site:2086/123456789/123456789/91810
+#EXTINF:-1,IN : ZEE CINEMA HD 
+http://randomserver.site:2086/123456789/123456789/91809
+#EXTINF:-1,IN : ZEE HINDUSTAN 
+http://randomserver.site:2086/123456789/123456789/91808
+#EXTINF:-1,IN : ZEE MARATHI HD
+http://randomserver.site:2086/123456789/123456789/94800
+#EXTINF:-1,IN : ZEE NEWS
+http://randomserver.site:2086/123456789/123456789/94801
+#EXTINF:-1,IN : ZEE TALKIES 
+http://randomserver.site:2086/123456789/123456789/91806
+#EXTINF:-1,IN : ZEE TAMIL HD 
+http://randomserver.site:2086/123456789/123456789/91805
+#EXTINF:-1,IN : ZEE TELUGU
+http://randomserver.site:2086/123456789/123456789/94804
+#EXTINF:-1,IN : ZEE TV HD
+http://randomserver.site:2086/123456789/123456789/94805
+#EXTINF:-1,IN : ZING
+http://randomserver.site:2086/123456789/123456789/91914
+
