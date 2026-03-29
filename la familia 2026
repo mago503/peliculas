@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="HBO HD*" tvg-logo="http://latinoamericatv.vip:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CANAIS | TELECINE & HBO",HBO HD*
+http://45.181.122.46:8090/play/a00d
+http://45.181.122.46:8090/play/a00g
+http://45.181.122.46:8090/play/a02k
