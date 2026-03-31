@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,TNT Sports
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch26.playlist.m3u8
+#EXTINF:-1,TyC Sports
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch32.playlist.m3u8
+#EXTINF:-1,Fox Sports
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch16.playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch30.playlist.m3u8
+#EXTINF:-1,Fox Sports 3
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch31.playlist.m3u8
+#EXTINF:-1,Fox Sports Premium
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch42.playlist.m3u8
+#EXTINF:-1,ESPN
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch9.playlist.m3u8
+#EXTINF:-1,ESPN 2
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch28.playlist.m3u8
+#EXTINF:-1,ESPN 3
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch29.playlist.m3u8
+#EXTINF:-1,Los Simpson 24hs
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7.playlist.m3u8
+#EXTINF:-1,Telefe
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3u8
+#EXTINF:-1,El Trece
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/eltrece.playlist.m3u8
+#EXTINF:-1,Sony
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch6.playlist.m3u8
+#EXTINF:-1,Space
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch1.playlist.m3u8
+#EXTINF:-1,Universal Channel
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch10.playlist.m3u8
+#EXTINF:-1,AXN
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch4.playlist.m3u8
+#EXTINF:-1,Arte y Entretenimiento (AyE)
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch3.playlist.m3u8
+#EXTINF:-1,Star Channel
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch21.playlist.m3u8
+#EXTINF:-1,HBO Family
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch22.playlist.m3u8
+#EXTINF:-1,HBO 2
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch20.playlist.m3u8
+#EXTINF:-1,Paramount
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch19.playlist.m3u8
+#EXTINF:-1,H&H
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch23.playlist.m3u8
+#EXTINF:-1,History Channel
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch7.playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch2.playlist.m3u8
+#EXTINF:-1,National Geographic
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch5.playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch15.playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch12.playlist.m3u8
+#EXTINF:-1,Canal 3 Rosario
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-canal3rosario.playlist.m3u8
+#EXTINF:-1,TV Pública
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch116.playlist.m3u8
